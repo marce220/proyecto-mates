@@ -1,3 +1,4 @@
 Este es el fichero readme
-:wq
-º
+
+
+Esto esta editado en github pages
